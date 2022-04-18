@@ -1,6 +1,6 @@
 # RolesAndSecurity_SpringMVC
 
-This project is for demonstrating user role based security in a Spring MVC application.
+This project is for demonstrating user-role based security in a Spring MVC application.
 
 There are 3 user roles here, with different access provided to each role. Below is the database screenshot.
 
