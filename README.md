@@ -1,4 +1,4 @@
-# RolesAndSecurity_SpringMVC
+# Roles and Security Demo (Spring MVC)
 
 This project is for demonstrating user-role based security in a Spring MVC application.
 
